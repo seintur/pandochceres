@@ -246,7 +246,7 @@ $endfor$
 \lhead{$myheader$}
 \chead{}
 \rhead{\raisebox{-.5\height}{\pgfimage[width=1.5cm]{hceres}}}
-\lfoot{Campagne d’évaluation  2024-2025 – Vague E\hspace{1cm} Département d’évaluation de la recherche}
+\lfoot{Campagne d’évaluation  2025-2026 – Vague A\hspace{1cm} Département d’évaluation de la recherche}
 \cfoot{}
 \rfoot{\thepage}
 \tcbsetforeverylayer{colframe=hceresred,colback=white,sharp corners,boxrule=1pt,boxsep=5mm}
@@ -284,9 +284,9 @@ UNITÉS DE RECHERCHE}
 
 
 \vskip 2cm
-{\raggedright\color{hceresred}\bf\large CAMPAGNE D'EVALUATION 2024-2025
+{\raggedright\color{hceresred}\bf\large CAMPAGNE D'EVALUATION 2025-2026
 }\\
-{\raggedright\color{hceresred}\large Vague E
+{\raggedright\color{hceresred}\large Vague A
 }
 \par\vskip 2cm
 {\raggedright\color{hcerespurple}\large $date$}
