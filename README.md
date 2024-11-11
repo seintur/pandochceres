@@ -2,7 +2,7 @@
 
 HCERES style pour pandoc.
 
-Permet de générer un pdf dans le format attendu par l'[HCERES](http://www.hceres.fr)
+Permet de générer un pdf dans le format attendu par le [Hcéres](http://www.hceres.fr)
 en utilisant comme source du texte au format markdown (et du latex)
 et en utilisant [pandoc](http://pandoc.org) pour obtenir un pdf.
 
